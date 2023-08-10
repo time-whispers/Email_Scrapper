@@ -1,4 +1,4 @@
-# Python Email_Scraper
+# Email Scraper
 
 An email_scraper is a programme that extracts email addresses from a website, social networking platform, or other source. It provides software that lets you to scout email addresses from a web page. 
 
